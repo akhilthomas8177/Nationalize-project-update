@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&family=Noto+Sans:wght@500&display=swap');
+
+.bg-col1{
+    background-color: #00C4CC;
+} 
+
+.bg-col2{
+    background-color: #FF738E;
+} 
+
+.bg-col3{
+    background-color: #A548FF;
+} 
+
+.bg-col4{
+    background-color: #FFA53B;
+} 
+
+.bg-col5{
+    background-color: #6422B8;
+} 
+
+.bg-col6{
+    background-color: #FFD93B;
+} 
+.text-data{
+    color: white;
+    font-size: large;
+    font-weight: 500;
+}
+
+.logo{
+    width: 50%;
+}
+.error-logo{
+    width: 30%;
+    height: 11rem;
+}
+.search-box i {
+    position: absolute;
+}
+
+.icon{
+    background-color: #318BA2;
+    padding: 12px;
+    color: white;
+    z-index: 9;
+}
+
+.input-field{
+    position: absolute;
+}
+.boy-img{
+    z-index: -20;
+}
+
+.left-screen{
+    display: flex;
+    flex-direction: column;
+}
+
+.icon-cls{
+  
+    background-color: #318BA2 !important;
+    width: 4rem;
+    height: 38px;
+    width: 4rem;
+    height: 38px;
+
+}
+
+
+.border-cls{
+    border: 2px solid #00C4CC;
+} 
+
+
+.img{
+    z-index:-20;
+}
+
+
+#container {
+    position: relative;    
+}
+
+#example {
+    position: absolute;
+    top: 90px;
+    left: 181px;
+    padding: 5px; 
+}
+.error-font{
+    font-family: 'Kalam', cursive;
+    color: #318BA2 !important;
+    font-size: 100px;
+
+}
+.text-size{
+    font-size: 40px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 900;
+}
+.boy-error-img{
+    width: 55%;
+    position: absolute;
+    left: 20;
+    left: 616px;
+}
